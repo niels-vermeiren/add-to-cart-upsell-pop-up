@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Users/verme/AppData/Local/Temp/fz3temp-3/formatter"
+		}
+	],
+	"settings": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"editor.formatOnSave": true,
+		"prettier.printWidth": 120
+	}
+}
